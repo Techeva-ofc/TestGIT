@@ -16,8 +16,17 @@
             "id": "column_1",
             "label": "Text Area",
             "name": "field1"
+        },
+        {
+            "filterable": true,
+            "hidden": "false",
+            "id": "column_2",
+            "label": "Created By",
+            "name": "createdBy",
+            "sortable": "false"
         }
     ],
+    "considerFilterWhenGetTotal": "",
     "filters": [],
     "id": "list_info",
     "name": "List - Information",
