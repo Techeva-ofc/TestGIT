@@ -1,0 +1,31 @@
+{
+    "actions": [],
+    "binder": {
+        "className": "org.joget.plugin.enterprise.AdvancedFormRowDataListBinder",
+        "properties": {"formDefId": "info"}
+    },
+    "buttonPosition": "bottomLeft",
+    "checkboxPosition": "left",
+    "columns": [
+        {
+            "id": "column_0",
+            "label": "ID",
+            "name": "id"
+        },
+        {
+            "id": "column_1",
+            "label": "Text Area",
+            "name": "field1"
+        }
+    ],
+    "filters": [],
+    "id": "list_info",
+    "name": "List - Information",
+    "order": "",
+    "orderBy": "",
+    "pageSize": 0,
+    "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "rowActions": [],
+    "showPageSizeSelector": "true",
+    "useSession": "false"
+}
